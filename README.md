@@ -1,70 +1,35 @@
 # 원티드 프리 온보딩 챌린지 - 프론트엔드
+<img src="https://user-images.githubusercontent.com/84312457/211199768-04860dd6-5c72-41bb-91b9-f59235aaed94.png" width="700"/>
+<img src="https://user-images.githubusercontent.com/84312457/211199928-4a29babc-f130-4fb3-be33-d764cc42d246.png" width="700"/>
+<br>
 
+### 💬 소개
 리액트를 사용해 로그인과 todo를 구현.
+<br>
 
-## Available Scripts
+### 🕐 일정
+2023.01.08 - 2023.01.08
+<br>
 
-In the project directory, you can run:
+### 🎁 사용한 오픈소스
+#### sweetalert2 
+[https://sweetalert2.github.io/#examples](https://sweetalert2.github.io/#examples)  
+<br>
 
-### `npm start`
+### 📜 실시간 작업 목록(최신순)
+- [ ] Todo API 연결
+- [ ] 로그인 & 회원 가입 유효성 적용
+- [x] 로그인 & 회원 가입 API 연결
+- [x] React 퍼블리싱
+- [x] 피그마로 시안 제작
+- [x] React강의 수강
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 작업자 소개
+#### <img src="https://user-images.githubusercontent.com/84312457/211200499-87d4689f-3348-4d74-9fa2-0847e083d5f2.png" width="20" height="20"/> kkokkiok3
+- 미술 전공을 이용해 UI/UX 코드 개선을 주도적으로 진행한 경험이 있습니다.
+- 처음 작성한 코드가 오랜 기간 좋은 코드로 남을 수 있게 노력합니다. 이를 위해 기존의 불편한 코드를 보면 지나치지 않고 메모해두어 끝내 개선합니다. 마무리로 개발한 코드를 문서화하고 리팩토링할 때마다 문서를 업데이트하며 부족했던 점을 깨닫고 보완합니다.
+- 작업자 간 지식/일정/개발 공유를 중요하게 여기며, 개발사항에 대해 문서화한 뒤 피드백을 나누는 것을 좋아합니다.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### kkokkiok3 더 자세히 알기 👉
+https://www.notion.so/kkokkiok3/0135e62356bf41a4986938646ed79e58
