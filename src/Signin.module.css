@@ -1,0 +1,33 @@
+.sign_in {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+h1 {
+    text-align: center;
+    margin-bottom: 53px;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.content > * {
+    width: 400px;
+    box-sizing: border-box;
+    margin: 20px 0;
+}
+.content > input:active,
+.content > input:focus {
+    outline-color: #48BDFF;
+}
+.content > button {
+    border: none;
+    background-color: #48BDFF;
+    color: #fff;
+}
+.content > span {
+    text-align: end;
+    color: #888;
+}
