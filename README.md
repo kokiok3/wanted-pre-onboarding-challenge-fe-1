@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# 원티드 프리 온보딩 챌린지 - 프론트엔드
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+리액트를 사용해 로그인과 todo를 구현.
 
 ## Available Scripts
 
