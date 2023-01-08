@@ -1,11 +1,19 @@
 import style from './Home.module.css';
 
 function Home() {
+    const logout = ()=>{
+        console.log('by')
+        window.localStorage.removeItem('token');
+        document.location.pathname = '/';
+    }
     return (
         <div className={style.home}>
             <header>
                 <h1><div>같이해</div><div>가치해</div></h1>
-                <div>유저이름</div>
+                <div>
+                    <span>유저이름</span>
+                    <span className={style.logout} onClick={logout}>로그아웃</span>
+                </div>
             </header>
             <main>
                 <section>
