@@ -42,7 +42,7 @@ function Signin() {
         <div className={style.sign_in}>
             <h1><div>같이해</div><div>가치해</div></h1>
             <form className={style.content} onSubmit={login}>
-                <input type="email" placeholder='아이디' value={id} onChange={changeId} required/>
+                <input type="email" pattern='[a-zA-Z0-9]+@[a-zA-Z0-9]+\.+[a-zA-Z]+\.*[a-zA-Z]*' placeholder='이메일' value={id} onChange={changeId} required/>
                 <input type="password" placeholder='비밀번호' onChange={changePw} required/>
 
                 {errMsg ? <span className={style.errMsg}>⚠ {errMsg}</span> : null}
