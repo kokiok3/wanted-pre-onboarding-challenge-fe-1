@@ -35,3 +35,8 @@
     color: #888;
     cursor: pointer;
 }
+.errMsg {
+    margin-bottom: -10px;
+    font-size: 12px;
+    color: red;
+}
